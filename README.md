@@ -99,6 +99,10 @@ npm install
 npm run dev
 ```
 
+## Sistema Online
+
+https://mineradora-frontend.netlify.app
+
 ## Autor
 
 Álvaro Souza Freire
